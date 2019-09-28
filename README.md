@@ -27,6 +27,8 @@ To train the model run
 python ./src/train.py
 ```
 
+This will generates trained models and submission file.
+
 ### Approach
 
 Detailed solution see in
