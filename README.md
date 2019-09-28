@@ -30,4 +30,4 @@ python ./src/train.py
 ### Approach
 
 Detailed solution see in
-[this presentation](./presentation/Gendered Pronoun Resolution Pair pronouns to their correct entities.pdf) (russian).
+[this presentation](presentation/Gendered_Pronoun_Resolution_Pair_pronouns_to_their_correct_entities.pdf) (russian).
