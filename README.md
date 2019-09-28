@@ -3,7 +3,7 @@
 This is an another one approach to solve the competition from kaggle
 [Gendered Pronoun Resolution](https://www.kaggle.com/c/gendered-pronoun-resolution).
 
-18th place over 263 (silver medal) with 0.21618 log-loss score.
+18th place over 263 (silver medal) with 0.21618 log-loss score (top 1 -- 0.13667).
 
 ### Prerequisites
 
